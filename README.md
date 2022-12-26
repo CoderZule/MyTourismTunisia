@@ -1,1 +1,1 @@
-Tourism-Tunisia is a simple Tour guide in tunisia app
+Tourism-Tunisia is a simple app for Tour guides in tunisia
