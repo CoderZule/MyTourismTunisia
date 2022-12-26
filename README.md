@@ -1,1 +1,1 @@
-Tourism-Tunisia is a simple app for Tour guides in tunisia
+Tourism-Tunisia is a simple app for Tour guides in tunisia made using Firebase for Auth
